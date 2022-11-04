@@ -10,7 +10,7 @@ namespace HarderCore
     public class HarderCore : BaseUnityPlugin
     {
         public const string GUID = "com.ehaugw.hardercore";
-        public const string VERSION = "1.0.0";
+        public const string VERSION = "2.0.0";
         public const string NAME = "Harder Core";
 
 
